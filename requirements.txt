@@ -1,0 +1,5 @@
+aksharamukha==2.3
+audio_recorder_streamlit==0.0.10
+Requests==2.32.3
+streamlit==1.30.0
+torch==2.1.2
