@@ -18,6 +18,10 @@ Made especially for the festival of Diwali.
 - **Speech Recording**: The app allows users to record their voice directly through the interface using `audio_recorder`.
 - **Connect to API Endpoint**: Using `request`, users can connect to any LLM Endpoint to inference. For saving cost, we tested it out using LMStudio and LLama 3.2 3B
 - **Text-to-Speech**: The AI response is converted into speech with the `silero  Hindi Language` TTS model, and the resulting audio is played back to the user.
+
+## Images
+![Page 1](/ignore/page_1.png)
+![Page 2](/ignore/page_2.png)
   
 ## Demo
 
