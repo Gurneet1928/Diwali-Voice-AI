@@ -101,7 +101,7 @@ For generating the required output, I created this prompt. Feel free to modify i
 
 ## Known Issues
 
-- Minor Lag when the response is fetched from backend and converted to Audio format. Can depend on Device to Devcie
+- Minor Lag when the response is fetched from backend and converted to Audio format. Can depend on Device to Device
 
 ## Contributing
 
